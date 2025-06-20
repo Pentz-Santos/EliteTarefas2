@@ -1,0 +1,19 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+ul {
+  margin-top: 10px;
+}
+a {
+  display: inline-block;
+  margin-top: 15px;
+  color: #00f2ff;
+  text-decoration: none;
+}

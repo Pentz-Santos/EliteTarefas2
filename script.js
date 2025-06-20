@@ -1,0 +1,1 @@
+console.log("EliteTarefas iniciado!");
