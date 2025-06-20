@@ -1,1 +1,1 @@
-console.log("EliteTarefas iniciado!");
+console.log('EliteTarefas ativo');
